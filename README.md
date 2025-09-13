@@ -1,2 +1,2 @@
-# Text-Classification-via-Knowledge-Distillation-from-Large-Pre-trained-Models
-大模型知识蒸馏-文本分类-政策文本为例
+# Knowledge Distillation for Text Classification based on Large Models 
+基于大模型知识蒸馏的文本分类
