@@ -1,0 +1,80 @@
+import torch
+import matplotlib.pyplot as plt
+import seaborn as sns
+from utils import build_dataset, build_iterator  # 确保可以正确导入
+from models.bert_gru_attention import Model, Config  # 确保可以正确导入
+
+# 1. 加载模型和数据
+dataset = 'THUCNEews'  # 替换为你的数据集路径
+config = Config(dataset)
+train_data, dev_data, test_data = build_dataset(config)
+test_iter = build_iterator(test_data, config, shuffle=False)
+
+model = Model(config).to(config.device)
+model.load_state_dict(torch.load(config.save_path))  # 加载训练好的模型
+model.eval()
+
+
+# 2. 定义可视化函数
+def visualize_attention(model, tokenizer, text, device):
+    """
+    可视化给定文本的注意力权重。
+
+    Args:
+        model:  训练好的 bert-gru-attention 模型.
+        tokenizer: BertTokenizer.
+        text:  输入的文本 (string).
+        device:  torch.device.
+    """
+    model.eval()  # 设置为评估模式
+    tokens = tokenizer.tokenize(text)
+    tokens = ['[CLS]'] + tokens
+    token_ids = tokenizer.convert_tokens_to_ids(tokens)
+    seq_len = len(token_ids)
+    mask = [1] * seq_len
+    pad_size = config.pad_size  # 从config中获取pad_size
+
+    if seq_len < pad_size:
+        mask += [0] * (pad_size - seq_len)
+        token_ids += ([0] * (pad_size - seq_len))
+    else:
+        token_ids = token_ids[:pad_size]
+        mask = mask[:pad_size]
+        seq_len = pad_size
+
+    # 转换为 tensors
+    token_ids_tensor = torch.LongTensor([token_ids]).to(device)
+    mask_tensor = torch.LongTensor([mask]).to(device)
+
+    # 获取 attention weights
+    with torch.no_grad():
+        # 修改点：确保 forward 函数返回 attention weights
+        logits, attention_weights = model((token_ids_tensor, torch.LongTensor([seq_len]).to(device), mask_tensor),
+                                          return_attention=True)
+
+    attention_weights = attention_weights.squeeze().cpu().numpy()
+
+    # 去除 [CLS] 符号的权重
+    tokens = tokens[1:]
+    attention_weights = attention_weights[:len(tokens)]
+
+    # 3. 可视化
+    plt.figure(figsize=(12, 6))  # 调整图像大小
+    sns.heatmap(attention_weights.reshape(1, -1),
+                xticklabels=tokens,
+                yticklabels=['Attention'],
+                cmap="YlGnBu",  # 使用更清晰的颜色映射
+                linewidths=.5,
+                annot=True,  # 显示数值
+                fmt=".2f")  # 格式化数值
+    plt.title('Attention Weights Visualization')  # 添加标题
+    plt.xlabel('Tokens')  # 添加 x 轴标签
+    plt.ylabel('Layer')  # 添加 y 轴标签
+    plt.xticks(rotation=45, ha="right")  # 旋转 x 轴标签
+    plt.tight_layout()  # 自动调整子图参数, 使之填充整个图像区域
+    plt.show()
+
+
+# 4. 使用示例
+text = "推动区块链技术在政务服务、社会治理、金融服务等领域的创新应用。"  # 替换为你想要分析的文本
+visualize_attention(model, config.tokenizer, text, config.device)

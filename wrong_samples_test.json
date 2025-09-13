@@ -1,0 +1,2627 @@
+[
+    {
+        "text": "[CLS]对在站博士后，给予每人每年20万元生活补贴，总额不超过40万元。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 0,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]实施[UNK]标准强基[UNK]工程，加强重点领域标准研制和应用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]对获得立项的重点课题和一般课题，分别给予3万元和1万元的经费资助。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]推动大赛成果转化和产学研用紧密结合。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]土地调查人员应坚持实事求是，保证调查数据真实可靠。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 0,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]中央结算公司对债券交易进行统一结算，实行全额、逐笔的结算原则。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 7,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]对获得国家级制造业单项冠军、专精特新[UNK]小巨人[UNK]等称号的企业，给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]对新认定的国家级、省级[UNK]专精特新[UNK]企业给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]支持符合条件的[UNK]专精特新[UNK]中小企业申报省级工业互联网专项资金。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]支持北京国际大数据交易所设立数字经济仲裁中心。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]全面推行[UNK]双随机、一公开[UNK]监管，减少对企业正常经营的干扰。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]对新获评国家级、省级智能制造示范工厂的，分别给予200万元、100万元奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]建立粤黔合作联席会议制度，统筹协调重大合作事项。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]推进政务数据资源整合共享，编制政务数据资源目录和共享责任清单。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]土地调查采用统一的技术标准和规范。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]全面推进机关内部[UNK]一件事[UNK]改革，优化内部审批流程和业务协同。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建设数据要素产业集聚区，打造[UNK]数据谷[UNK]等特色园区。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立健全招标投标信用体系，推进信用信息在招标投标活动中的查询和应用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]推动制定数据安全地方性法规和标准规范。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]提升贵阳大数据交易所功能，探索数据资产化、证券化，打造国家级数据交易所。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]依法保护数据主体的个人隐私和商业秘密，规范数据采集、使用行为。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立数据安全官（ds##o）制度，负责本单位数据安全管理工作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]将数字政府建设工作纳入政府绩效考核和领导班子、领导干部实绩考核。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]在合肥、芜湖等市开展公共数据授权运营试点。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]加强工业互联网人才培育，鼓励校企合作，共建人才实训基地。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]鼓励企业制定优于国家标准、行业标准的企业标准。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立健全改革督察和通报制度，将改革推进情况纳入效能考核。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]培育壮大北斗产业集群，打造[UNK]北斗+[UNK]产业生态。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]对高层次人才创办的企业，给予最高500万元的创业启动资金。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]实施[UNK]标准提质[UNK]工程，提升产品和服务质量。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]对工业互联网标杆示范项目给予贷款贴息支持。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 7,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]鼓励大数据、人工智能、物联网等技术与各行各业的融合创新项目。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 2
+    },
+    {
+        "text": "[CLS]开展公共数据资源开发利用创新应用竞赛，激发社会创新活力。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]开发基于国土资源数据的增值服务和信息产品。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]对首次认定为国家级、省级[UNK]专精特新[UNK]中小企业的，给予一次性奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]建设全省信创产业基地。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]设立云南省中小企业发展基金。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 7,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]探索建立数据资产评估模型和定价机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]开展[UNK]两化[UNK]融合优秀案例和解决方案征集推广活动。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]实施[UNK]标准引领[UNK]工程，抢占产业发展和技术创新制高点。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]每年遴选一批制造业数字化转型典型案例并进行推广。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]实行[UNK]多评合一[UNK]，将技术审查类事项相近的评估评审事项，实行同步评估、联合评审。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]鼓励企业参与制定数字经济领域相关标准。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立健全政府数据资源管理制度，实行[UNK]一数一源、动态更新[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]鼓励企业建设智能仓储、共享云仓。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立公共数据资源开发利用收益分配机制，所得收益纳入财政统一管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]支持新经济企业优先申报各类试点示范项目。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立中介服务网上交易平台，规范中介服务行为。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]基本农田划区定界成果应向社会公告，接受社会监督。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]探索建立首席合规官制度，指导平台企业加强合规管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]构建[UNK]一中心四体系[UNK]的数字政府组织架构和制度体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]数据利用单位应当建立数据资产台账，加强数据资产管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]实施企业标准[UNK]领跑者[UNK]制度，对入选[UNK]领跑者[UNK]的企业给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立政务服务便利度评估指数。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]加强对政务信息化项目的统筹规划和集约化建设。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]确保基本农田数据库图、数、实地相一致。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]公共数据资源开发利用，应当遵循[UNK]合法、正当、必要[UNK]的原则。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]对新引进的世界500强、中国500强企业设立的区域总部，分别给予1000万元、500万元的一次性奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]支持建设机器人检验检测、标准制定、认证等公共服务平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]对在科技创新、成果转化中作出突出贡献的科研人员，加大股权、期权、分红等激励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]大力发展数据清洗、数据标注、数据分析、数据可视化等数据加工处理产业。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]促进教育链、人才链与产业链、创新链的有机衔接。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]建立[UNK]标准+[UNK]发展模式，推动标准与产业、科技、贸易、金融等融合发展。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]支持龙头企业通过政府引导、市场化运作的方式建设和运营工业互联网平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 10,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建设德阳市数据要素产业创新中心。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]将生态环境法治建设情况纳入党政领导班子和领导干部考核。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]市教育局建立首席数据官工作联席会议制度，定期召开会议。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]基本农田数据库建设采用内外业相结合的方式。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建立教育系统首席数据官（cd##o）制度，统筹教育数据[UNK]收、管、用[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]搭建创新创业项目与投资机构的对接平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 7,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建立健全国土资源信息化标准体系，统一数据格式和技术规范。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建设[UNK]城市生命线[UNK]安全工程，对桥梁、管网等进行智能化监测管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]建立生态环境守信激励和失信惩戒机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建设[UNK]一网通管[UNK]的社会治理平台，提升社会治理智能化水平。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]支持工业互联网服务商做大做强，对其为我市企业提供的服务，按服务金额的一定比例给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]支持在市政工程、公共服务等领域应用机器人产品。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 10,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]推动建立京津冀数据要素市场一体化工作机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立基本农田保护补偿机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]开展[UNK]标准化+[UNK]行动，促进标准化与各行业深度融合。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]设立数字经济产业投资基金。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]鼓励外资企业利润再投资，按其再投资金额的一定比例给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]探索建立适应机器人产业发展的[UNK]沙盒监管[UNK]机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立数据要素市场价格形成机制，鼓励通过交易场所发现和确定价格。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]对公共数据授权运营形成的收益，按规定实行[UNK]收支两条线[UNK]管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]中央结算公司负责编制和发布债券收益率曲线等信息产品。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]制定保险业务计算机管理系统的数据处理规程和标准。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]清理违反公平、开放、透明市场规则的政策文件。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立金融ic卡跨地区、跨机构互联互通的技术架构。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]推动国土空间规划、用途管制、生态修复等业务数据化。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]加快建设数字孪生城市。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]支持民营企业参与[UNK]东数西算[UNK]工程建设。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]构建[UNK]苏数通[UNK]数据能力服务体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]对地方标准《电子文件归档与管理规范》予以备案公告。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]对在武汉数据交易所年度交易额排名前列的企业，给予最高100万元奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]开展[UNK]数商[UNK]培育行动，支持数据服务企业做大做强。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立标准化与科技创新、产业发展协同推进机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]运用大数据技术精准识别、精准锁定、精准打击环境违法行为。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]支持企业建设行业数据库、知识库。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]培育工业互联网平台，对新认定的国家级、省级工业互联网平台，分别给予300万元、100万元的一次性奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]推动中国[UNK]东盟信息港建设，打造面向东盟的数字经济合作新高地。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]建立国土资源综合监管平台，利用信息技术提升监管能力。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]探索[UNK]政府点菜、企业配餐[UNK]模式，引导企业参与智慧城市应用场景开发。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 10,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]支持企业参与国际、国家和行业标准制定。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立数据安全官（ds##o）制度，全面负责本单位数据安全工作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]将首席数据官履职情况纳入年度考核和干部评价。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]强化政务服务[UNK]好差评[UNK]结果运用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]实施新经济企业梯度培育计划，建立种子企业、准独角兽企业、独角兽企业培育库。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建立项目验收评价制度，委托第三方专业机构开展项目验收。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立涉税信息共享目录清单，实行动态管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]推动数据要素与资本、技术等其他要素协同创新。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]依托省全民健康信息平台，建立全省统一的卫生健康数据资源目录。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]支持企业建设数字化转型促进中心。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]首席数据官负责组织编制本单位数据资源目录和数据责任清单。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]推动[UNK]蒙信通[UNK][UNK]鹿城分[UNK]等城市个人诚信分在多场景应用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]推动标准数字化、网络化、智能化发展，建设标准数字化服务平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]实施[UNK]千企升级[UNK]计划，推动传统企业数字化改造。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建立数据安全协同监管工作机制，加强部门间信息共享和联合执法。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]开展数据应用创新大赛，激发社会数据开发利用活力。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]支持建设成渝[UNK]双城经济圈[UNK]，协同建设现代化产业体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]对用人单位和中介机构为我区引进高层次人才的，按引才类别给予最高20万元奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]将数字政府建设成效纳入政府绩效考核。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建立健全数据产权交易和行业自律机制，培育数据交易市场。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建立健全税收共治考核评价办法。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建立[UNK]一地创新、全省共享[UNK]的数字化改革成果推广机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]加强政务服务大厅标准化建设和管理，统一服务设施、服务标识、服务流程。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]首席数据官由各单位主要负责人或分管负责人担任。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]实施地质勘查成果市场化导向的评价机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]对企业开展核心技术攻关，按项目总投入的一定比例给予资助，单个项目最高1000万元。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]建立数据回流机制，政务部门在履职过程中产生的数据应及时回流数据资源平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]完善科技成果转化激励机制，落实以增加知识价值为导向的分配政策。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]鼓励企业、高校、科研院所参与大数据标准制定。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建立公共数据开放清单和负面清单制度，推动公共数据安全有序开放。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立金融ic卡应用的技术支持和运营服务体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 2
+    },
+    {
+        "text": "[CLS]推动工业互联网平台赋能中小企业，为企业提供数字化解决方案。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]已实行电子化的票据，原则上不再使用纸质票据。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]首席数据官负责统筹本单位数据采集、汇聚、治理、共享、开放、应用等工作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]建立健全产权执法司法保护制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]鼓励企业在贵阳大数据交易所进行数据登记和交易。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]统一税务与银行间共享数据的接口规范和报文标准。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]运用大数据技术加强对权力运行的制约和监督。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立数字化转型服务商资源池，为企业提供[UNK]菜单式[UNK]选择。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建设数字可信身份认证和授权管理体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立数据回流和共享责任[UNK]两张清单[UNK]，推动数据[UNK]应回尽回、应享尽享[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建立[UNK]浙里办[UNK][UNK]浙政钉[UNK]等平台的迭代升级和长效运营机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]推动数字经济与实体经济深度融合，建设国家数字经济创新发展试验区。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建设北京数据基础制度先行区。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立首席数据官考核评价机制，评价结果作为领导班子和领导干部综合考核评价的重要参考。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]建立数据处理者数据安全合规能力评估和认证体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立保险业务系统操作日志和审计追踪功能。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]对在数字经济发展中作出突出贡献的单位和个人，按规定给予表彰奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 0,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]开展基本农田信息宣传和教育。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]a类企业货物贸易收入可直接在金融机构办理入账，支出可凭进口货物报关单等任一凭证办理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]鼓励企业参与数据要素相关国家标准、行业标准、地方标准的制修订。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]鼓励企业应用国产工业软件。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 2
+    },
+    {
+        "text": "[CLS]企业首次办理货物贸易外汇收支业务前，应到所在地外汇局办理[UNK]贸易外汇收支企业名录[UNK]登记。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立政企常态化沟通协商机制，定期听取民营企业意见建议。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立[UNK]好差评[UNK]结果与部门绩效考核、干部评价挂钩机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]为高层次人才提供安居保障，可申请入住人才公寓或享受购房补贴。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 0,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]推进[UNK]互联网+监管[UNK]，实现监管信息共享和协同联动。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]组织实施促进大数据发展重大工程，支持大数据关键技术产业化、应用示范和共享平台建设。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]各单位应当按照财政电子票据管理要求，及时进行系统对接和业务流程改造。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立首席数据官制度，统筹负责本地区、本部门数据治理和开发利用工作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]推动建立跨区域的平台经济协同治理机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建立健全数据异议和投诉处理机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]研究制定公共数据开放、数据资源清单管理、数据共享交换等管理办法，为数据要素市场化配置提供制度保障。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]推动省内数据中心与长三角、粤港澳大湾区等区域算力枢纽节点协同建设。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]加快推进经济运行、市场监管、生态环境等领域大数据融合应用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]探索[UNK]原始数据不出域、数据可用不可见[UNK]的安全可信流通模式。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]推广使用非税收入收缴电子化。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]规范银行卡清算机构的数据处理行为。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]支持市场主体利用公共数据资源，开发数据产品和服务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]政务信息化项目应当优先采用通过密码应用安全性评估的密码产品和服务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 10
+    },
+    {
+        "text": "[CLS]推动金融ic卡在社会保障、公共交通等领域的[UNK]一卡通[UNK]应用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]中央结算公司负责制定债券托管、结算等业务规则。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]深入实施[UNK]万户小巨人[UNK]培育工程，建立[UNK]专精特新[UNK]中小企业培育库。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]银行在获取纳税人授权后，可通过信息平台查询其涉税信息。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立数据要素市场服务机构名录库，加强行业自律管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]实施[UNK]万企上云[UNK]工程，培育和引进一批云平台服务商。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]深入推进[UNK]放管服[UNK]改革，全面实行惠企政策[UNK]免申即享[UNK]、精准推送。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]首席数据官负责推动建立本单位数据资产登记管理制度，形成数据资产目录。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]债券柜台交易实行投资者适当性管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]建立健全数据安全、权利保护、跨境传输、交易流通、开放共享等基础制度和标准规范。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]打造工业互联网应用标杆，对新认定的国家级、省级应用标杆示范项目，分别给予100万元、50万元的一次性奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]开展[UNK]百名行长进企业[UNK]等融资对接活动，拓宽企业融资渠道。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]对获得国家、省首台（套）认定的产品，给予最高500万元奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]实施智能化、绿色化、高端化技术改造，对符合条件的项目给予补贴。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 2
+    },
+    {
+        "text": "[CLS]推进生态环境信息依法向社会公开，保障公众知情权、参与权和监督权。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]投资者可以查询其债券持有情况和交易记录。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]规范保险业务数据的修改、删除等操作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]工商银行与投资者之间的债券交易纠纷，可协商解决，或向法院起诉。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]支持对[UNK]数据要素市场化配置的理论逻辑与实现路径[UNK]等课题开展研究。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 2
+    },
+    {
+        "text": "[CLS]推动数字技术与农业、工业、服务业深度融合，培育数字经济新业态。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立保险业务数据的生命周期管理制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]将数字政府建设成效纳入政府目标责任考核。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]研究利用涉税大数据服务于宏观经济分析和决策。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]鼓励民营企业[UNK]上云用数赋智[UNK]，对购买云服务的费用给予补贴。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 10
+    },
+    {
+        "text": "[CLS]投资者办理柜台债券交易，应与承办银行签订协议，明确双方权利义务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]中国人民银行依法对支付清算系统的数据管理进行监督。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]组建中山市工业互联网产业联盟，促进产业交流合作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]鼓励企事业单位设立[UNK]人才驿站[UNK]，按引才成效给予最高20万元奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]支持企业建设工业互联网安全监测与态势感知平台，按项目投资额的一定比例给予补助。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]对带动就业能力强的平台企业，给予一定奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]开展数字经济领域[UNK]揭榜挂帅[UNK]行动，解决关键技术难题。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]支持企业参与[UNK]一带一路[UNK]沿线国家标准化活动，推动中国标准[UNK]走出去[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立大赛项目数据库，跟踪项目发展。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]开展数据安全宣传教育，提升全社会数据安全意识。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]推动区块链技术在数字政府、数字社会等领域的应用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立金融ic卡应用试点工作的评估和推广机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建立数据资产评估、登记、托管、交易、结算等全链条服务体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立[UNK]好差评[UNK]制度，倒逼政府部门优化服务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]c类企业的货物贸易外汇收支，需经外汇局逐笔登记后方可办理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]利用共享数据防范和打击涉税违法行为。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立新经济企业梯度培育库。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]支持企业参与国际标准制定，提升国际话语权。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 10,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]支持企业利用数字技术进行技术改造，对符合条件的项目给予贷款贴息。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 7,
+        "predict": 2
+    },
+    {
+        "text": "[CLS]对为企业提供数字化转型服务的供应商，按其服务合同金额的一定比例给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]探索建立多功能金融ic卡的个人数字身份标识。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立招商引资项目评估机制，对项目的产业关联度、技术水平、经济效益等进行综合评价。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]对引荐重大项目的单位或个人，按项目固定资产投资额的一定比例给予奖励，最高奖励500万元。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]对招商引资中介机构、社会组织和个人实行引荐奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]鼓励企业参与制定数字化转型相关标准。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]推广[UNK]云签约[UNK][UNK]云洽谈[UNK]等招商模式。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]对地方标准《数字档案馆（室）建设规范》予以备案公告。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立健全老年人监护制度，保障失能失智老年人的合法权益。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]开展[UNK]泰州标准[UNK]认证，提升泰州品牌影响力。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立数字政府建设评价指标体系，将考核结果纳入高质量发展考核。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]首席数据官负责建立本单位数据治理、数据安全、数据共享等管理制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]支持建设数字经济特色产业园区。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]对引进的国内外知名数字经济企业，给予最高1000万元的落户奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]设立总规模100亿元的浦东智能制造产业投资基金，重点投向机器人、高端装备等领域。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]大力发展电子商务，支持企业建设运营电商平台，对年交易额达到一定规模的给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]探索建立基于大数据的教育管理决策、教师专业发展评价和学生综合素质评价机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]实施数字经济园区（基地）提质升级工程，打造一批特色鲜明、配套完善的数字经济集聚区。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立政务服务事项办理[UNK]零超时[UNK]通报制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立保险业务系统的数据字典和编码标准。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]对营业收入首次突破1亿元、10亿元、50亿元的平台企业，给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]开展公共数据授权运营试点，探索数据所有权、使用权、经营权分离。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]项目单位资产负债率不高于70%，银行信用等级在aa级及以上。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]鼓励平台企业参与智慧城市、数字政府等项目建设。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 10,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建立数据共享协调机制，编制数据供需对接清单，推动数据按需共享、应享尽享。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]金融机构应通过监测系统向外汇局报送企业货物贸易外汇收支信息。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]建立市、区县两级首台（套）装备推广应用联动机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]实施教育专网提速增智工程，实现万兆到县（区）、千兆到校、百兆到班。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]逐步建立城乡一体的土地调查、登记和统计制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]对高层次人才在区内购买首套商品住房的，按人才类别给予最高60万元购房补贴。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 0,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]实施[UNK]数商培育[UNK]工程，培育一批数据要素型领军企业。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]对企业新招收的博士后，按每人20万元的标准给予企业科研经费资助。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]加快推进[UNK]互联网+监管[UNK]系统建设，提升监管的精准化、智能化水平。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]对新认定的国家级、市级企业技术中心、工业设计中心，给予配套奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]对地方标准《政务信息资源共享平台技术要求》予以备案公告。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立数据安全官（ds##o）制度，全面负责本单位数据安全工作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]开展金融ic卡应用效果的宣传和普及工作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]推动政务数据和社会数据融合应用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]对经认定的数字经济企业，在政府采购、政府投资项目等方面予以倾斜。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 10,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立国土资源信息社会化服务体系和数据共享机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立全市统一的公共数据资源目录体系，实行[UNK]一数一源、动态管理[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]对在州内设立区域性总部、研发中心、数据中心的大数据企业，给予支持。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]培育金融ic卡应用的产业链和服务生态。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立[UNK]链主[UNK]企业培育库，支持其在强链补链延链中发挥作用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]对首次认定为高新技术企业的民营企业，给予10万元奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]探索建立数据要素市场的收益分配机制，保障各方合法权益。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]鼓励平台企业利用大数据、人工智能等技术，创新商业模式和服务模式。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 2
+    },
+    {
+        "text": "[CLS]建立地质勘查行业信用体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]实施制造业数字化转型行动，推动企业[UNK]上云用数赋智[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]对民营企业建设的市级以上企业技术中心、工程研究中心等创新平台，给予资金支持。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]建立数据要素纠纷多元化解决机制，发挥仲裁、调解作用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]探索建立[UNK]首席数据官（cd##o）联盟[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]建立政务服务[UNK]好差评[UNK]制度，倒逼服务质量提升。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立联行凭证传递的时效考核制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立首席数据官制度，统筹数据资源管理和开发利用工作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]开展土地利用动态遥感监测。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]举办工业互联网创新应用大赛。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立税务与银行信息共享平台的用户权限管理制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]外汇局根据企业贸易信贷、转口贸易、物流、结算、合规等情况，将其分为a、b、c三类。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]对企业建设[UNK]人才飞地[UNK]的，按引才育才绩效给予最高50万元奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]实施[UNK]企业上云[UNK]工程，对上云企业给予奖补。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]实施[UNK]产业强链[UNK]数智赋能行动，推动重点产业集群数字化转型。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]支持企业建设数字化车间、智能工厂，对首次认定的给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]土地调查成果数据应以标准分幅存储。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]强化招商引资项目全生命周期服务，建立[UNK]一个项目、一名领导、一个专班、一抓到底[UNK]的工作机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]鼓励和支持企事业单位、社会团体、产业技术联盟积极参与国际、国家、行业和地方标准的制修订。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立[UNK]政府部门+专业机构[UNK]服务机制，为企业上市提供全流程服务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 7,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]打造[UNK]无证明城市[UNK]，以电子证照替代实体证照。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立基本农田补划制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]建立数字经济企业梯度培育机制，遴选[UNK]独角兽[UNK]、专精特新等企业。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]健全农村留守老年人关爱服务体系，明确各部门职责。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立12345政务服务便民热线与[UNK]一网通办[UNK]平台的数据联动和业务协同机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建立首席数据官制度，统筹数据资源管理和开发利用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]财政票据监（印）制、发放、核销、销毁等情况应当在监管平台登记。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]推动贵州数字产品、服务、技术、人才进入广东市场。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]支持企业利用政府开放数据开展技术创新和商业模式创新。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]债券柜台交易的费用由投资者承担，收费标准由工商银行制定。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]建立企业信用与标准实施的联动机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立全市政府服务[UNK]一张网[UNK]，实现政务服务平台、移动客户端、自助终端、服务热线等多渠道融合发展。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]建立健全数据共享开放、质量评估、安全保障等标准规范。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]推动算力中心与存力中心协同发展。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]加快发展智慧园区、智慧社区，提升社会治理能力。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]探索建立数据要素市场化配置机制，培育数据要素市场。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立健全覆盖省、市、县三级的政务服务体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]基本农田数据库建设应与土地利用现状数据库相衔接。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]支持企业开展检验检测认证，对获得国际、国内权威认证的给予补贴。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 10,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]对新落户的外资项目，按照其当年实际利用外资金额的一定比例给予奖励，最高奖励1000万元。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]对企业实施内外网改造、建设标识解析二级节点、购买云服务等给予补助。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]建立数据管理岗位责任制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立健全政务服务标准动态调整机制，及时吸纳新经验、新做法。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]实施[UNK]晋芯[UNK]计划，加快半导体产业发展。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]支持贵州建设数字技术应用场景试验场。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]对新认定的国家级、省级[UNK]专精特新[UNK]中小企业，分别给予50万元、20万元一次性奖补。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]建立首席数据官（cd##o）制度，统筹本地区、本部门数据资源管理工作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]实行[UNK]多图联审[UNK]，将消防、人防、技防等技术审查整合，实行联合图审。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立金融ic卡应用跨行业、跨区域的技术标准和规范。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]支持龙头企业建设行业型工业互联网平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]建立公共数据开放和授权运营机制，推动数据资源社会化开发利用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建立多元化、多渠道的资金投入机制，吸引社会资本参与[UNK]两化[UNK]融合发展。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]建立[UNK]一人一档[UNK][UNK]一企一档[UNK]的电子健康档案。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]对地方标准《地理信息公共服务平台数据共享服务接口技术规范》予以备案公告。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]推动国土资源管理业务流程与信息化的深度融合。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]财政电子票据版式、编码等技术标准由省财政厅统一制定。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]设立数据要素产业发展基金。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 7,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]落实平台企业税收优惠政策，支持符合条件的企业申报高新技术企业。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 7,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]实施[UNK]鼎湖双创英才[UNK]工程，对入选的创业团队给予最高500万元资助。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]建立公共数据有偿使用和收益分配机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]鼓励发展[UNK]共享员工[UNK]等新业态。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]将关键信息基础设施运营者采购的网络产品和服务纳入网络安全审查范围。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 10
+    },
+    {
+        "text": "[CLS]全面落实市场准入负面清单制度，清理废除妨碍统一市场和公平竞争的各种规定和做法。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]探索建立数据交易服务机构。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建设完善养老服务信息平台，整合各类养老服务资源，提供[UNK]一站式[UNK]服务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立标准创新贡献奖制度，对在标准化工作中做出突出贡献的单位和个人给予表彰。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]中央结算公司对债券交易结算收取相关费用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]探索开展数据生产要素统计核算。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]建设[UNK]一码通域[UNK]场景，实现省域范围内[UNK]一码通行、一码通服、一码通管[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]支持建设数字技术应用场景实验室和试验场。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立市、县（区）、乡镇（街道）三级联动的数字政府建设工作体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]在投资项目、工程建设、政府采购等领域，全面推行电子化招标投标。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]金融机构为企业办理货物贸易外汇收支时，应通过监测系统确认企业已在[UNK]名录[UNK]中。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]探索建立个人和企业[UNK]数据银行[UNK]，实现个人信息自主可控。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立保险业务系统变更管理和版本控制流程。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]设立贵州省大数据产业发展基金，引导社会资本投资大数据产业。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]对年营业收入达到一定规模的数字经济企业，按其对地方经济贡献增量的一定比例给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]对引进的国内外顶尖人才和团队，给予最高1亿元的综合支持。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]建设数字乡村，缩小城乡[UNK]数字鸿沟[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立健全全区统一的社会救助信息管理平台，实现救助信息共享、精准救助。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]首席数据官负责本单位数据安全和个人信息保护工作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]建立健全政府守信践诺机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立健全数据共享责任清单制度，明确各部门数据共享的责任和义务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建立政务服务[UNK]体验官[UNK]制度，邀请企业群众参与服务设计和监督。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]投资者办理柜台记账式债券买卖，应在工商银行开立活期存折或牡丹灵通卡，并指定其作为债券交易的资金账户。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]组织开展清理和减少涉企收费专项行动，切实为企业减负。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立健全以信用为基础的新型监管机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]坚持[UNK]两个毫不动摇[UNK]，促进非公有制经济健康发展和非公有制经济人士健康成长。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]支持建设新经济专业楼宇、特色园区。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立全国基本农田监管系统。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建设国土资源电子档案系统。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]实行行政许可事项清单管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]探索公共数据有条件无偿使用、授权有偿使用和依法合规交易等多种开发利用模式。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]对地方标准《信息系统灾难恢复规范》予以备案公告。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]举办世界航海装备大会，打造北斗产业交流合作平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]支持大数据企业申报国家、省级科技计划项目。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]承办银行应向投资者及时、准确、完整地披露债券信息、交易价格等。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]在用地、税费等方面给予养老服务机构优惠。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]建立健全全省卫生健康数据标准管理工作机制，成立卫生健康数据标准管理机构。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]开展[UNK]千行百业[UNK]平台培育行动。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立国土资源数据资源目录体系，摸清数据家底。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建设[UNK]企业码[UNK][UNK]市民码[UNK]融合的应用生态体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]深化[UNK]不来即享[UNK]改革，推动惠企政策精准直达。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]大力发展寒地冰雪经济、生物经济等特色数字产业。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]支持企业建设和应用数字化供应链协同平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]引导东部地区高耗能的算力业务向贵州西移，鼓励在贵州建立数据灾备基地。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]推动北斗在智慧城市、数字乡村建设中的融合应用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]制定支持数字经济发展的政策措施，营造良好发展环境。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]支持企业建设绿色数据中心，对符合条件的项目给予支持。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]建立数据要素收益分配机制，保障数据供给方、使用方、运营方的合法权益。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]建设工业互联网平台，为企业提供数字化、网络化、智能化转型支撑。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]建设一体化协同办公平台，推动跨部门、跨层级、跨区域协同办公。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]支持企业利用工业互联网平台开展设备健康管理、能耗优化、安全生产等应用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]对工程项目实行项目法人责任制，以及招标投标、合同管理、工程监理、竣工验收等制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]支持企业建设数字化转型促进中心，为行业内企业提供服务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]b类企业的货物贸易外汇收支，金融机构应审核相应单证，并在办理业务后进行登记。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]财政电子票据是指由财政部门监管，行政事业单位在依法收取政府非税收入、实施预算管理等活动中，开具、传输、存储的电子化凭证。[PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]结算参与人应在指定银行开立资金账户，专门用于债券结算。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]健全政务数据共享协调机制，打破[UNK]数据孤岛[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]推动数据要素收益向数据价值创造者合理倾斜。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建设安徽大数据交易中心，为数据交易提供场所、设施、信息和组织服务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]全面推广[UNK]一部手机游云南[UNK]大理版，持续丰富产品业态，创新宣传营销，加快智慧旅游发展。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建设全市统一的政务服务平台[UNK]宿迁通[UNK]，打造[UNK]一网通办[UNK]总入口。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]对主导制定国际标准、国家标准、行业标准的企业，给予资金奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]探索建立数据中心用能权市场化交易机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]建立统一开放、竞争有序的现代市场体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]基本农田数据库成果是国土资源管理和监督的重要基础。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立北斗产业发展军地民协同创新机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立[UNK]银税互动[UNK]长效机制，将更多诚信纳税企业纳入支持范围。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 7,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立用户单位和生产单位[UNK]双向激励[UNK]机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 10,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立健全政务数据共享协调机制，完善数据共享责任清单制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]开展制造业企业数字化转型免费诊断服务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]实行[UNK]多评合一[UNK]，将技术审查类事项相近的评估评审事项，实行同步评估、联合评审。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]推进地质资料馆藏数字化和智能化管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]实施[UNK]企业登云[UNK]数智赋能行动，每年新增上云企业2000家。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]明确支付清算系统各参与方的数据权责。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]鼓励企业在市、县（区）设立研发中心、销售中心、结算中心，并给予相应支持。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]强化对平台企业劳动者权益的保障。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]建立[UNK]政府[UNK]平台[UNK]商户[UNK]多元协同共治的电子商务治理模式。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]对地方标准《公共图书馆服务规范》予以备案公告。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立罗湖区企业服务平台，实现惠企政策[UNK]一网通查、精准推送、免申即享[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]土地调查中形成的原始资料应归档保存。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]建立基本农田数据库动态更新机制，及时反映基本农田变化情况。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]推进国土资源电子政务建设，实现网上审批和协同办公。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立数据要素市场化配置改革联席会议制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]支持北斗企业参与国际、国家、行业标准制修订。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立支付系统参与机构的数据接入和退出管理规范。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]对首次进入全国电子信息百强、软件百强、互联网百强的企业，给予一次性奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]对投资强度、亩均税收等指标超过约定标准的新引进项目，给予超额部分的奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]基本农田数据库应与永久基本农田划定工作相衔接。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]打造全市一体化智能化公共数据平台，为数字政府建设提供数据支撑。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]建立平台经济重点企业联系服务制度，协调解决企业发展中的困难。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]开展数据要素市场化配置改革试点，制定数据资源清单和信息发布规则，推动数据资源有效流动。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]鼓励高校建立创新创业孵化基地，提供数据、平台等支持。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]支持建设集成电路、人工智能、生物医药等领域的公共技术服务平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立健全[UNK]互联网+监管[UNK]体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]组建佛山市制造业数字化转型促进会，搭建政企交流合作平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]推广[UNK]云签约[UNK][UNK]云会展[UNK][UNK]云招商[UNK]等新模式。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]发展[UNK]线上引流+实体消费[UNK]新模式。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]编制和实施全市政务服务事项基本目录、实施清单和办事指南，实现同一事项在市、县、乡、村四级无差别受理、同标准办理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]组织开展[UNK]云逛街[UNK][UNK]云购物[UNK]等系列线上促销活动，鼓励企业通过直播带货、社群营销等模式拓展业务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]对企业采购数字化改造、工业互联网等产品和服务的，按投入的一定比例给予补助。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 10
+    },
+    {
+        "text": "[CLS]对年度营业收入首次突破1亿元、5亿元、10亿元的软件和信息服务业企业，分别给予最高100万元、200万元、500万元奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]落实养老服务设施建设、运营补贴等优惠政策。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]每年遴选100个[UNK]数智化[UNK]改造示范项目，给予最高50万元奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]推动[UNK]地质云[UNK]建设和应用，提升地质信息服务水平。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]鼓励企业加大研发投入，对平台企业年度研发投入超过1000万元的，按比例给予补助。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 2
+    },
+    {
+        "text": "[CLS]支持建设北斗产品检测认证公共服务平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立全省算力需求发布和供需对接机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]投资者账户内的债券余额不得用于透支。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]建立标准化信息公共服务平台，提供标准查询、标准解读等服务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]对在土地调查中做出突出贡献的单位和个人给予表彰。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 0,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]开展数字化转型优秀案例征集和推广活动。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]依法规范发展共享经济、平台经济。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]加强对平台企业算法推荐、深度伪造等新技术应用的规范引导。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立首台（套）装备示范应用基地。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]培育数据经纪人、数据商等市场主体，提升数据流通效率。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]探索建立数据要素交易平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]保护老年人个人信息安全，规范养老服务领域的数据采集和使用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]搭建企业产品供需对接平台，帮助企业稳定供应链。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]开展[UNK]一行业一策[UNK]数字化转型，制定分行业转型指南。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建立对标达标评估制度，鼓励企业执行先进标准。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]建立健全生态环境法规规章体系，适时启动地方性法规、规章的制定和修订工作。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]营造鼓励创新、宽容失败的学术和创业氛围。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 0,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]运用业务数据进行保险风险识别和精算定价。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 2
+    },
+    {
+        "text": "[CLS]组建市级数智化转型服务商联盟，为企业提供[UNK]一站式[UNK]解决方案。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]在土地调查中，要充分利用已有成果，避免重复劳动。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立首席数据官数据资源[UNK]一本账[UNK]制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]建立政务服务[UNK]好差评[UNK]制度，评价结果纳入政府部门绩效考核。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]各级国土资源主管部门负责本行政区域内基本农田数据库的建设与管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]各级土地调查领导小组办公室负责本行政区域内土地调查工作的组织和实施。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]实施[UNK]企业上云[UNK]工程，对中小企业购买云服务给予补贴。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 10
+    },
+    {
+        "text": "[CLS]建立健全生态环境行政执法与刑事司法衔接机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]培育壮大数字技术应用业，深化大数据、人工智能、区块链等技术融合创新。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]建立算力交易结算机制，探索开展算力券、算力币等试点。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建设一体化在线政务服务平台，推动政务服务向基层延伸。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]鼓励企业将拥有自主知识产权的技术转化为标准。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]将大数据产业发展纳入数字经济发展考核。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]建立健全公共数据资产登记、授权运营、共享开放等管理制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]培育工业互联网解决方案供应商，对首次进入省级资源池的服务商，给予10万元奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]推行以信用为基础的分级分类监管。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]支持企业参与[UNK]一带一路[UNK]沿线国家和地区的标准化活动。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 10,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]建立健全工业互联网标准体系。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]支持行业协会、商会、产业技术联盟等牵头制定团体标准。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]实施[UNK]标准护航[UNK]工程，加强质量安全、节能环保等领域标准实施。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]规范中国银联和资金清算中心在支付清算过程中的数据处理职责。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]鼓励企业、科研院所等参与数字政府技术研发和标准制定。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 10,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]实施地质勘查成果汇交和管理制度，实现地质资料集中统一管理。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]制定数据资源管理办法，明确数据汇聚、治理、共享、开放、应用、安全等全过程管理要求。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]推进电子证照、电子印章、电子签名、电子档案的全面应用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]完善环境公益诉讼制度，支持检察机关和社会组织依法提起环境公益诉讼。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建设全区统一的公共信用信息平台，实现信用信息互通共享。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]对首次通过数据管理能力成熟度（dc##mm）评估认证的企业给予奖励。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]探索建立数据信托、数据银行等新型服务模式。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]建立[UNK]原始数据不出域、数据可用不可见[UNK]的安全可信流通环境。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]深化[UNK]互联网+督查[UNK]，提升督查工作的精准性和有效性。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]破除妨碍各类生产要素市场化配置和商品服务自由流动的壁垒。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]设立总规模100亿元的数字经济发展基金。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 7,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]建立平台经济统计监测体系，为宏观决策提供支撑。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立[UNK]政府定标准、企业作承诺、过程强监管、信用有奖惩[UNK]的新型管理模式。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]推动招投标信息与建筑市场监管、政府采购等平台的数据共享。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建立数据资源普查和动态更新机制，编制数据资源目录。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]定期向国家发展改革委报送项目进展情况。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]支持企业购买云服务、工业软件等，给予服务券或补贴。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 10
+    },
+    {
+        "text": "[CLS]推动地质资料向社会公开，符合保密要求的要[UNK]应公开、尽公开[UNK]。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立国土资源数据更新机制，确保[UNK]一张图[UNK]的现势性。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]编制发布数据要素典型应用场景案例集。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 12
+    },
+    {
+        "text": "[CLS]对在数字政府建设中作出突出贡献的单位和个人，按规定给予表彰。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 0,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]对支付系统核心数据进行加密存储和传输。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]建立政务服务运行情况[UNK]一日一通报、一周一分析、一月一调度[UNK]机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立招标投标活动异议和投诉处理机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立企业家参与涉企政策制定机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]支持企业建设面向特定行业或区域的工业互联网平台。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]财政电子票据与纸质票据具有同等法律效力，是财会监督、审计监督等的重要依据。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]支付系统应为监管部门提供必要的数据接口和查询功能。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]中央国债登记结算有限责任公司负责办理债券的登记、托管、结算。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]建立贯穿学生全学段的个人学习、成长、评价的终身电子档案。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]建立健全公共数据资源开发利用工作机制，统筹推进数据资源整合共享和开发利用。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]投资者委托买卖债券，一经成交，不得撤销。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]认定机构负责对申报企业的材料进行审核，并出具认定意见。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]推动省内政府、企事业单位的非涉密业务系统优先向国家算力枢纽节点迁移。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]开展[UNK]千名干部助千企[UNK]活动，帮助企业解决实际困难。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 0
+    },
+    {
+        "text": "[CLS]开展第二次全国土地调查，全面查清全国土地利用状况。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建设机器人产业协同创新平台，提供技术研发、检验检测、中试验证等公共服务。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 4,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]支持举办具有国际影响力的机器人峰会、展览和技术技能大赛。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 11,
+        "predict": 13
+    },
+    {
+        "text": "[CLS]探索[UNK]算力券[UNK]等模式，支持中小企业获取普惠算力。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 7
+    },
+    {
+        "text": "[CLS]共同争取国家部委支持，将贵州作为国家数据要素市场化配置改革的重要试点区域。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 12,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立健全[UNK]五型[UNK]政府建设长效机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立保险业务数据的统计分析和报告制度，服务经营决策。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]鼓励企业、社会资本参与数字政府建设。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 1,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]土地调查成果应向社会公布，但涉及国家秘密的除外。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 3,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]支持平台企业发展跨境电商，建设海外仓。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]鼓励企业、科研机构参与卫生健康数据标准的研究和制定。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 13,
+        "predict": 11
+    },
+    {
+        "text": "[CLS]建立标准实施效果的统计分析报告制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 5
+    },
+    {
+        "text": "[CLS]农村土地调查应查清每块土地的权属、地类、面积和分布。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 5,
+        "predict": 9
+    },
+    {
+        "text": "[CLS]对新落户的数字经济领域总部企业，最高给予1亿元支持。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]建立公共数据有条件、有偿使用制度。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 9,
+        "predict": 6
+    },
+    {
+        "text": "[CLS]b类和c类企业应当自收汇或付汇之日起10个工作日内，持相应单证到外汇局办理登记。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 3
+    },
+    {
+        "text": "[CLS]建立政务服务[UNK]好差评[UNK]制度，实现服务绩效由企业和群众来评判。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 8
+    },
+    {
+        "text": "[CLS]建立税务与银行信息共享平台的运行维护机制。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]保障税务与银行间信息交换网络和系统的安全稳定运行。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 6,
+        "predict": 4
+    },
+    {
+        "text": "[CLS]对新落户的科技型企业，提供最高1000平方米的办公用房租金补贴。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 8,
+        "predict": 1
+    },
+    {
+        "text": "[CLS]支持龙头企业联合高校、科研院所组建创新联合体，开展协同创新。[PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD][PAD]",
+        "label": 2,
+        "predict": 11
+    }
+]
