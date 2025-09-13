@@ -1,8 +1,11 @@
 # Knowledge Distillation for Text Classification based on Large Models 
-基于大模型知识蒸馏的文本分类
+基于大模型知识蒸馏的文本分类——政策文本分类
+
+
 中文文本分类，Bert及其变体，ERNIE，基于pytorch，开箱即用。
 
 教师模型：Gemini 2.5；GPT；deepseek...
+
 学生模型：Bert及其变体
 
 
