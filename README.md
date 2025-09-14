@@ -1,90 +1,83 @@
 # Knowledge Distillation for Text Classification based on Large Models 
-基于大模型知识蒸馏的文本分类——政策文本分类
+# 基于大模型知识蒸馏的政策文本分类
 
+本项目旨在利用大型预训练模型进行知识蒸馏，实现高效且精准的政策文本分类。我们提供了一套开箱即用的中文文本分类解决方案，基于 PyTorch 实现，并支持多种 BERT 变体及 ERNIE 等模型。
 
-中文文本分类，Bert及其变体，ERNIE，基于pytorch，开箱即用。
+## 技术概览
 
-教师模型：Gemini 2.5；GPT；deepseek...
+*   **任务：** 政策文本分类
+*   **语言：** 中文
+*   **基础框架：** PyTorch
+*   **核心思想：** 知识蒸馏
 
-学生模型：Bert及其变体
+## 模型架构
 
+*   **教师模型 (Teacher Models):**  我们计划支持多种强大的教师模型，例如 Gemini 2.5, GPT, DeepSeek 等（具体模型选择取决于实验效果）。
+*   **学生模型 (Student Models):**  本项目主要采用 BERT 及其变体作为学生模型，旨在通过知识蒸馏提升其在特定任务上的性能。
 
-介绍
+## 数据流程
 
-模型介绍、数据流动过程：论文隐私，请谅解
+模型的详细介绍和数据流动过程涉及论文隐私，敬请谅解。
 
-显卡：NVIDIA GeForce RTX 4060 ， 训练时间：30分钟左右，加入CNN层的话训练时间可能长达2-3天。
+## 硬件与训练
 
+*   **GPU:** NVIDIA GeForce RTX 4060
+*   **训练时间:**
+    *   基础 BERT 模型：约 30 分钟
+    *   加入 CNN 层的 BERT 模型：可能长达 2-3 天 (取决于具体配置)
 
-环境
+## 环境配置
 
-Windows 11
+*   **操作系统:** Windows 11
+*   **Python:** 3.10.18
+*   **CUDA:** 12.6
+*   **PyTorch:** 2.5.1+cu121
+*   **依赖库:**
+    *   `tqdm`
+    *   `sklearn`
+    *   `tensorboardX`
+    *   `pytorch_pretrained_bert` (本项目已上传预训练代码，因此不再需要单独安装此库)
 
+## 数据集
 
-python	3.10.18
+*   **类型：** 中文政策文本数据集
+*   **预处理：** 基于 BERT 谷歌发布的相关代码修改，以字为单位将数据输入模型。
+*   **数据集来源：** 默认使用 THUCNews 数据集，您可以轻松替换为自定义的政策语句数据集。
+*   **类别示例：**
+    *   人才培养
+    *   资金投入
+    *   科技投入
+    *   公共服务
+    *   设施建设
+    *   目标规划
+    *   法规管制
+    *   金融支持
+    *   政策支持
+    *   产权保护
 
+*   **数据集划分：** 请根据您自身数据集的格式进行调整。
 
-cuda	12.6
+## 实验结果
 
+下表展示了不同模型的分类精度 (Accuracy)：
 
-pytorch	2.5.1+cu121
+| 模型        | Accuracy | 备注                                                       |
+| ----------- | -------- | ---------------------------------------------------------- |
+| BERT        |  （待补充）  | 原始 BERT 模型                                                |
+| ERNIE       |  （待补充）  | 实验结果表明，ERNIE 在本项目中表现不如 BERT (原因待分析)                 |
+| BERT+CNN    |  （待补充）  | 将 BERT 作为 Embedding 层，结合 CNN 模型                              |
+| BERT+RNN    |  （待补充）  | 将 BERT 作为 Embedding 层，结合 RNN 模型                              |
+| BERT+RCNN   |  （待补充）  | 将 BERT 作为 Embedding 层，结合 RCNN 模型                             |
+| BERT+DPCNN  |  （待补充）  | 将 BERT 作为 Embedding 层，结合 DPCNN 模型                            |
 
+**结论：** 实验初步表明，原始 BERT 模型已经取得了较好的效果。将 BERT 作为 Embedding 层并与其他模型结合，性能反而有所下降。后续将尝试长文本上的效果对比。
 
-tqdm
+## 预训练语言模型
 
+本项目需要预训练语言模型，请将模型文件放置在以下目录下：
 
-sklearn
-
-
-tensorboardX
-
-
-pytorch_pretrained_bert(预训练代码也上传了, 不需要这个库了)
-
-
-中文数据集
-
-根据Bert谷歌发布的相关代码修改
-
-THUCNews可改政策语句
-
-数据以字为单位输入模型。
-
-
-类别：人才培养；资金投入；科技投入；公共服务；设施建设；目标规划；法规管制；金融支持；政策支持；产权保护等。
-
-数据集划分：
-更换自己的数据集
-
-    按照我数据集的格式来格式化你的中文数据集。
-
-效果
-
-模型 	acc 	备注
-
-bert 	
-
-ERNIE 		说好的中文碾压bert呢（怎么变差啦）
-
-bert_CNN 	 	bert + CNN
-
-bert_RNN 		bert + RNN
-
-bert_RCNN 		bert + RCNN
-
-bert_DPCNN 	 	bert + DPCNN
-
-原始的bert效果就很好了，把bert当作embedding层送入其它模型，效果反而降了，之后会尝试长文本的效果对比。
-
-预训练语言模型
-
-bert模型放在 bert_pretain目录下，ERNIE模型放在ERNIE_pretrain目录下，每个目录下都是三个文件：
-
-    pytorch_model.bin
-    
-    bert_config.json
-    
-    vocab.txt
+*   **BERT 模型:** `bert_pretrain/` (包含 `pytorch_model.bin`, `bert_config.json`, `vocab.txt` 三个文件)
+*   **ERNIE 模型:** `ERNIE_pretrain/` (包含 `pytorch_model.bin`, `bert_config.json`, `vocab.txt` 三个文件)
 
 预训练模型下载地址：
 
