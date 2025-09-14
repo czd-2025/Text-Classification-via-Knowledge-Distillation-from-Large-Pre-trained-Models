@@ -68,7 +68,7 @@
 | BERT+CNN    |  （待补充）  | 将 BERT 作为 Embedding 层，结合 CNN 模型                              |
 | BERT+RNN    |  （待补充）  | 将 BERT 作为 Embedding 层，结合 RNN 模型                              |
 | BERT+RCNN   |  （待补充）  | 将 BERT 作为 Embedding 层，结合 RCNN 模型                             |
-| BERT+DPCNN  |  （待补充）  | 将 BERT 作为 Embedding 层，结合 DPCNN 模型                            |
+| BERT+自定义  |  （待补充）  | 将 BERT 作为 Embedding 层，结合 自定义 模型                            |
 
 **结论：** 实验初步表明，原始 BERT 模型已经取得了较好的效果。将 BERT 作为 Embedding 层并与其他模型结合，性能反而有所下降。后续将尝试长文本上的效果对比。
 
